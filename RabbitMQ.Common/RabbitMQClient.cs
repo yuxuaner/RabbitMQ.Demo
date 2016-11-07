@@ -15,7 +15,7 @@ namespace RabbitMQ.Common
         public IConnection GetConnection()
         {
             return Program.RabbitMqFactory.CreateConnection();
-        }
+        } 
 
 
         //新增优先级参数
