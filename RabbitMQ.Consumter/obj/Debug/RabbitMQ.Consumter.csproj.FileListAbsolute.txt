@@ -1,0 +1,13 @@
+F:\TestProjects\v4.5\RabbitMQ.Test\RabbitMQ.Consumter\obj\Debug\RabbitMQ.Consumter.csprojResolveAssemblyReference.cache
+F:\TestProjects\v4.5\RabbitMQ.Test\RabbitMQ.Consumter\bin\Debug\RabbitMQ.Consumter.exe.config
+F:\TestProjects\v4.5\RabbitMQ.Test\RabbitMQ.Consumter\bin\Debug\RabbitMQ.Consumter.exe
+F:\TestProjects\v4.5\RabbitMQ.Test\RabbitMQ.Consumter\bin\Debug\RabbitMQ.Consumter.pdb
+F:\TestProjects\v4.5\RabbitMQ.Test\RabbitMQ.Consumter\bin\Debug\RabbitMQ.Client.dll
+F:\TestProjects\v4.5\RabbitMQ.Test\RabbitMQ.Consumter\bin\Debug\RabbitMQ.Common.dll
+F:\TestProjects\v4.5\RabbitMQ.Test\RabbitMQ.Consumter\bin\Debug\RabbitMQ.Common.pdb
+F:\TestProjects\v4.5\RabbitMQ.Test\RabbitMQ.Consumter\bin\Debug\RabbitMQ.Client.xml
+F:\TestProjects\v4.5\RabbitMQ.Test\RabbitMQ.Consumter\obj\Debug\RabbitMQ.Consumter.exe
+F:\TestProjects\v4.5\RabbitMQ.Test\RabbitMQ.Consumter\obj\Debug\RabbitMQ.Consumter.pdb
+F:\GitHub.Project\RabbitMQ.Test\RabbitMQ.Consumter\bin\Debug\RabbitMQ.Consumter.exe.config
+F:\GitHub.Project\RabbitMQ.Test\RabbitMQ.Consumter\obj\Debug\RabbitMQ.Consumter.exe
+F:\GitHub.Project\RabbitMQ.Test\RabbitMQ.Consumter\obj\Debug\RabbitMQ.Consumter.pdb

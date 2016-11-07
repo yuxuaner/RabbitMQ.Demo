@@ -18,8 +18,7 @@ namespace RabbitMQ.Consumter
             var conn = client.GetConnection();
             IModel channel = client.GetChannel(conn, "direct");
             var props = channel.CreateBasicProperties();
-            props.SetPersistent(true);
-
+            props.Persistent = true;
             //1.BasicGet+ACK
 
             while (true)
