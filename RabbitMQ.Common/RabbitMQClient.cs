@@ -30,7 +30,7 @@ namespace RabbitMQ.Common
                 arguments["x-max-priority"] = 10;//定义队列优先级为10个级别  
                 return arguments;
             }
-        }
+        } 
 
         public IModel GetChannel(IConnection conn,string type)
         {
